@@ -1,11 +1,11 @@
-import React from 'react'
+import React from "react";
 
 function Map() {
-    return (
-        <div>
-            
-        </div>
-    )
+  return (
+    <div style={{ backgroundColor: "#90EE90" }}>
+      <h1>Map</h1>
+    </div>
+  );
 }
 
-export default Map
+export default Map;

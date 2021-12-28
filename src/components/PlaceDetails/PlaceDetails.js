@@ -1,11 +1,11 @@
-import React from 'react'
+import React from "react";
 
 function PlaceDetails() {
-    return (
-        <div>
-            
-        </div>
-    )
+  return (
+    <div style={{ backgroundColor: "grey" }}>
+      <h1>PlaceDeatils</h1>
+    </div>
+  );
 }
 
-export default PlaceDetails
+export default PlaceDetails;
